@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<report>
+  <files>6</files>
+  <directories>2</directories>
+  <totalSize>30</totalSize>
+  <extensions>
+    <extension name=".png" count="2"/>
+    <extension name=".jpg" count="2"/>
+    <extension name=".txt" count="1"/>
+    <extension name=".svg" count="1"/>
+  </extensions>
+</report>
